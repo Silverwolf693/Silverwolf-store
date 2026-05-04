@@ -1,0 +1,47 @@
+[
+  {
+    "id": "wireless-headphones",
+    "name": "Silverwolf Wireless Headphones",
+    "price": 129.99,
+    "description": "Premium over-ear wireless headphones with balanced sound and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "category": "Audio",
+    "stock": true
+  },
+  {
+    "id": "mechanical-keyboard",
+    "name": "Silverwolf Mechanical Keyboard",
+    "price": 89.99,
+    "description": "Compact mechanical keyboard with tactile switches and customizable RGB lighting.",
+    "image": "https://images.unsplash.com/photo-1517336714739-489689fd1ca8?auto=format&fit=crop&w=900&q=80",
+    "category": "Accessories",
+    "stock": true
+  },
+  {
+    "id": "smartwatch-pro",
+    "name": "Silverwolf Smartwatch Pro",
+    "price": 199.99,
+    "description": "Track workouts, monitor heart rate, and stay connected with a sleek AMOLED display.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "category": "Wearables",
+    "stock": false
+  },
+  {
+    "id": "portable-speaker",
+    "name": "Silverwolf Portable Speaker",
+    "price": 59.99,
+    "description": "Water-resistant portable speaker with deep bass and up to 12 hours play time.",
+    "image": "https://images.unsplash.com/photo-1589003077984-894e133dabab?auto=format&fit=crop&w=900&q=80",
+    "category": "Audio",
+    "stock": true
+  },
+  {
+    "id": "gaming-mouse",
+    "name": "Silverwolf Gaming Mouse",
+    "price": 49.99,
+    "description": "Ergonomic gaming mouse with precision sensor and programmable side buttons.",
+    "image": "https://images.unsplash.com/photo-1613141411244-0e4ac259d217?auto=format&fit=crop&w=900&q=80",
+    "category": "Accessories",
+    "stock": true
+  }
+]
